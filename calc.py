@@ -4,7 +4,7 @@ from tkinter import messagebox
 
 ###################
 # Main window
-###################...............
+###################s
 
 root = Tk()
 
