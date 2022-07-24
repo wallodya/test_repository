@@ -3,8 +3,11 @@ from tkinter import messagebox
 
 
 ###################
-# Main window
+# Main window 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
 ###################s
+
+def function_a():
+    print('A')
 
 root = Tk()
 
