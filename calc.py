@@ -16,6 +16,12 @@ def function_b():
     print('B')
     return
 
+
+def fucntion_c():
+    print('C')
+    return
+    
+
 root = Tk()
 
 
