@@ -206,3 +206,6 @@ Button(text='=', command=lambda: count(), fg='green', height=2, width=2).grid(ro
 Button(text='C', command=lambda: clear(), fg='red', height=2, width=2).grid(row=5, column=0, padx=10, pady=10)
 
 root.mainloop()
+
+
+# asd
