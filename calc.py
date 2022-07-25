@@ -20,7 +20,10 @@ def function_b():
 def fucntion_c():
     print('C')
     return
-    
+
+def function_f():
+    print('F')
+    return 
 
 root = Tk()
 
