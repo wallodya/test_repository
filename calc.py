@@ -23,7 +23,11 @@ def fucntion_c():
 
 def function_f():
     print('F')
-    return 
+    return
+
+def function_g():
+    print('G')
+    return
 
 root = Tk()
 
