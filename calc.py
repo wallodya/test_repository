@@ -3,7 +3,7 @@ from tkinter import messagebox
 
 
 ###################
-# Main window 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
+# Main window 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
 ###################s
 
 
@@ -20,7 +20,14 @@ def function_b():
 def fucntion_c():
     print('C')
     return
-    
+
+def function_f():
+    print('F')
+    return
+
+def function_g():
+    print('G')
+    return
 
 root = Tk()
 
