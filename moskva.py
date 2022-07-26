@@ -3,7 +3,8 @@ def function_msc():
 
 
 def moscow_1():
-    return 
+	a = 2+ 3
+	print(a)
 
 
 def moscow_2():
