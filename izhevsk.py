@@ -1,0 +1,2 @@
+def izhevsk():
+	print('izhevsk')
